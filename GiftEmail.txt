@@ -1,0 +1,39 @@
+﻿Season's Greetings!
+
+You, and {0} others, have chosen to participate in the Christmas Gift Exchange this year!
+
+Here's how it works:
+	* Each participant has written down around 3 ideas for what they'd like to receive for Christmas.
+	* In some cases these are specific items on Amazon or elsewhere, and in other cases they are general.
+	* You will receive a list of your assigned recipient and you'll pick which of the 3 gifts you like the most, and purchase it for them.
+	* Your assignment is anonymous and no one knows who you have, but feel free to provide a card or a note identifying yourself once the presents are unwrapped!
+
+Oh, and the rule is that the items should be in the $20 range.  Let us know if anyone is asking for something way outside the price range!
+
+This year, you have been matched with...
+
+...
+
+...
+
+Drumroll...
+
+...
+
+...
+
+...
+
+{1}!
+
+Here is their list of gift ideas (from the horse's mouth, so to speak):
+{2}
+
+I'm sure they will be 100% in love with any of the above gift ideas - after all, the ideas are from them!  But shh - you didn't hear that from me.
+
+Please remember to go shopping and wrap up your present before we meet on Some Date at Some Location!
+
+If anyone has questions please let us know!
+
+Serving You,
+-Gift Email's Robot

@@ -1,0 +1,18 @@
+﻿[
+[
+"dest.email@example.com", 
+"Participant Name", 
+"Some message
+* Gift Item 1
+* Gift Item 2
+* Gift Item 3"
+],
+[
+"dest.email2@example.com", 
+"Participant Name2",
+"Some message
+* Gift Item 1
+* Gift Item 2
+* Gift Item 3"
+]
+]
